@@ -3,7 +3,6 @@ models/__pycache__
 core/yolov8n.pt
 core/__pycache__/
 venv/
-best.pt
 *.mov
 *.zip
 *.lib
